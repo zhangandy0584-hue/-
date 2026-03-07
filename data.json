@@ -154,5 +154,89 @@
     "os": "macOS",
     "price": 87573,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 83707,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Wildberries",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 84066,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Wildberries",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46776,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46921,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85889,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Yandex Market",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46545,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-03-07",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44232,
+    "isAnomaly": false
   }
 ]
