@@ -3022,5 +3022,65 @@
     "os": "Windows 11",
     "price": 48427,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-04-14",
+    "platform": "Wildberries",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87884,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-14",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48535,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-14",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48533,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-14",
+    "platform": "Wildberries",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47291,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-14",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43274,
+    "isAnomaly": false
   }
 ]
