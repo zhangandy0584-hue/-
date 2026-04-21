@@ -3550,5 +3550,65 @@
     "os": "Windows 11",
     "price": 44259,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-04-21",
+    "platform": "Yandex Market",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44123,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-21",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47056,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-21",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48398,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-21",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 89912,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-04-21",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43199,
+    "isAnomaly": false
   }
 ]
