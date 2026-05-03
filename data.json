@@ -4486,5 +4486,65 @@
     "os": "Windows 11",
     "price": 49282,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-05-03",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43018,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-03",
+    "platform": "Yandex Market",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48931,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-03",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49227,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-03",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 88961,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-03",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48838,
+    "isAnomaly": false
   }
 ]
