@@ -4546,5 +4546,101 @@
     "os": "Windows 11",
     "price": 48838,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43186,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "DNS",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46221,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87458,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48538,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47585,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85554,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47073,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-05-04",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45419,
+    "isAnomaly": false
   }
 ]
