@@ -7342,5 +7342,65 @@
     "os": "Windows 11",
     "price": 45685,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-06-08",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43309,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-08",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45055,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-08",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45559,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-08",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49468,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-08",
+    "platform": "Wildberries",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44224,
+    "isAnomaly": false
   }
 ]
