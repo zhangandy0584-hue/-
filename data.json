@@ -8314,5 +8314,65 @@
     "os": "Windows 11",
     "price": 49647,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-06-20",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46522,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-20",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46510,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-20",
+    "platform": "Ozon",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47880,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-20",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87267,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-20",
+    "platform": "Wildberries",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48945,
+    "isAnomaly": false
   }
 ]
