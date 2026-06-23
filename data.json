@@ -8542,5 +8542,101 @@
     "os": "Windows 11",
     "price": 47012,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Yandex Market",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43307,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46315,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45667,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44152,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43130,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 89587,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Wildberries",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 86991,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-23",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45870,
+    "isAnomaly": false
   }
 ]
