@@ -8950,5 +8950,89 @@
     "os": "Windows 11",
     "price": 46695,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87281,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48676,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46685,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 84277,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85736,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87730,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-06-28",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47835,
+    "isAnomaly": false
   }
 ]
