@@ -9586,5 +9586,65 @@
     "os": "Windows 11",
     "price": 46306,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-07-06",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87432,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-06",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49848,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-06",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47368,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-06",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47312,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-06",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44662,
+    "isAnomaly": false
   }
 ]
