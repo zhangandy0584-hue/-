@@ -10246,5 +10246,77 @@
     "os": "Windows 11",
     "price": 43068,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49286,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45816,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85221,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47290,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "Wildberries",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48406,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-15",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46253,
+    "isAnomaly": false
   }
 ]
