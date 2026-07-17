@@ -10390,5 +10390,89 @@
     "os": "Windows 11",
     "price": 44750,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "DNS",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43011,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49670,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48381,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48507,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49744,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45080,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-07-17",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43677,
+    "isAnomaly": false
   }
 ]
