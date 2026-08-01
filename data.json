@@ -11590,5 +11590,65 @@
     "os": "Windows 11",
     "price": 43493,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-01",
+    "platform": "Wildberries",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48609,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-01",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85069,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-01",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46057,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-01",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 84988,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-01",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 88541,
+    "isAnomaly": false
   }
 ]
