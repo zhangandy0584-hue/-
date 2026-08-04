@@ -11818,5 +11818,65 @@
     "os": "Windows 11",
     "price": 47203,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-04",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49986,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-04",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 84394,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-04",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43632,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-04",
+    "platform": "DNS",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48424,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-04",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46482,
+    "isAnomaly": false
   }
 ]
