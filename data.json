@@ -12046,5 +12046,77 @@
     "os": "Windows 11",
     "price": 45823,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "DNS",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48874,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48327,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47621,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47366,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 46000,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-07",
+    "platform": "Wildberries",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47774,
+    "isAnomaly": false
   }
 ]
