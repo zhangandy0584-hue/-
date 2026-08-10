@@ -12286,5 +12286,101 @@
     "os": "Windows 11",
     "price": 48634,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85786,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49920,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43173,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47914,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44050,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48954,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45388,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-10",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85170,
+    "isAnomaly": false
   }
 ]
