@@ -12958,5 +12958,65 @@
     "os": "Windows 11",
     "price": 46117,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-18",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49765,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-18",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47128,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-18",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45814,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-18",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44862,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-18",
+    "platform": "Ozon",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45414,
+    "isAnomaly": false
   }
 ]
