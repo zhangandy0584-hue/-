@@ -13294,5 +13294,65 @@
     "os": "Windows 11",
     "price": 47432,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-08-23",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85451,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-23",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47707,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-23",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44328,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-23",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87334,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-08-23",
+    "platform": "DNS",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85221,
+    "isAnomaly": false
   }
 ]
