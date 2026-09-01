@@ -14050,5 +14050,77 @@
     "os": "Windows 11",
     "price": 44043,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45469,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49458,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Yandex Market",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49194,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48665,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48881,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-01",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 87365,
+    "isAnomaly": false
   }
 ]
