@@ -14218,5 +14218,77 @@
     "os": "Windows 11",
     "price": 43029,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45599,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43731,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "RedmiBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44105,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "Yandex Market",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44358,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47096,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-03",
+    "platform": "Ozon",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 89606,
+    "isAnomaly": false
   }
 ]
