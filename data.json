@@ -14614,5 +14614,77 @@
     "os": "Windows 11",
     "price": 49403,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "Yandex Market",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47876,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "Ozon",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48053,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "Ozon",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45805,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "Wildberries",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 86288,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 84422,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-08",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47253,
+    "isAnomaly": false
   }
 ]
