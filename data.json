@@ -14686,5 +14686,65 @@
     "os": "Windows 11",
     "price": 47253,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-09-09",
+    "platform": "Ozon",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44971,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-09",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44307,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-09",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45645,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-09",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47114,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-09",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47270,
+    "isAnomaly": false
   }
 ]
