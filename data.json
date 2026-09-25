@@ -15838,5 +15838,65 @@
     "os": "macOS",
     "price": 83074,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-09-25",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47406,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-25",
+    "platform": "Yandex Market",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49597,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-25",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 86925,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-25",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47176,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-09-25",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43972,
+    "isAnomaly": false
   }
 ]
