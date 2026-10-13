@@ -17206,5 +17206,101 @@
     "os": "Windows 11",
     "price": 43056,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "DNS",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49781,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49416,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "Yandex Market",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49628,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48694,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48840,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "Ozon",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48249,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49829,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-13",
+    "platform": "DNS",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 49452,
+    "isAnomaly": false
   }
 ]
