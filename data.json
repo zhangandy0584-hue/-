@@ -17530,5 +17530,77 @@
     "os": "Windows 11",
     "price": 46424,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Ozon",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43220,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45861,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Wildberries",
+    "brand": "Huawei",
+    "model": "MateBook X Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 48329,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Yandex Market",
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47564,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Wildberries",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 45688,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-17",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47663,
+    "isAnomaly": false
   }
 ]
