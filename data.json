@@ -18526,5 +18526,65 @@
     "os": "Windows 11",
     "price": 46834,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 85463,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "DNS",
+    "brand": "Xiaomi",
+    "model": "Mi Notebook Pro",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44577,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44829,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "Wildberries",
+    "brand": "Apple",
+    "model": "MacBook Pro M2",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 88723,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "Yandex Market",
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Core i7/M2",
+    "ram": "16GB",
+    "rom": "512GB",
+    "os": "macOS",
+    "price": 83815,
+    "isAnomaly": false
   }
 ]
