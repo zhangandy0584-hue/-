@@ -19618,5 +19618,65 @@
     "os": "Windows 11",
     "price": 43954,
     "isAnomaly": false
+  },
+  {
+    "date": "2026-11-15",
+    "platform": "Ozon",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 43705,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-11-15",
+    "platform": "Yandex Market",
+    "brand": "Infinix",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44748,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-11-15",
+    "platform": "Wildberries",
+    "brand": "Honor",
+    "model": "MagicBook 15",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47720,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-11-15",
+    "platform": "Wildberries",
+    "brand": "Samsung",
+    "model": "Generic Model",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 47165,
+    "isAnomaly": false
+  },
+  {
+    "date": "2026-11-15",
+    "platform": "DNS",
+    "brand": "Honor",
+    "model": "MagicBook X14",
+    "cpu": "Core i5",
+    "ram": "8GB",
+    "rom": "512GB",
+    "os": "Windows 11",
+    "price": 44586,
+    "isAnomaly": false
   }
 ]
